@@ -73,6 +73,36 @@ $ torise2 -l GPL2
 ...
 ```
 
+### Template
+
+#### sample.md
+
+```
+## License
+torise2.license
+
+## Author
+torise2.author
+```
+
+The license you specified in the license option will be replaced with torise2.license. Also, the author specified by the author option will be replaced with torise2.author.
+
+#### Terminal
+
+```
+$ torise2 -a "[sample](https://github.com/sample)" -l mit -t ~/sample.md
+```
+
+#### README.md
+
+```
+## License
+[MIT](http://opensource.org/licenses/mit-license.php)
+
+## Author
+[sample](https://github.com/sample)
+```
+
 ## License
 [MIT](http://opensource.org/licenses/mit-license.php)
 
