@@ -1,0 +1,29 @@
+{
+  "name": "torise2",
+  "version": "0.0.1",
+  "description": "Torise2 - Add README.md Template.",
+  "main": "./lib/index.js",
+  "bin": {
+    "torise2": "./lib/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuG1224/torise2.git"
+  },
+  "keywords": [
+    "readme",
+    "torise2"
+  ],
+  "author": "Yuji Yamaguchi <yuji.yamaguchi24@gmail.com> (https://blog.yug1224.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YuG1224/torise2/issues"
+  },
+  "homepage": "https://github.com/YuG1224/torise2#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
