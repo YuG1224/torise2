@@ -1,5 +1,8 @@
-# Torise2
+# Torise2 [![npm version](https://badge.fury.io/js/torise2.svg)](https://badge.fury.io/js/torise2)
+
 README.md template generater inspired by [Torisetsu](https://github.com/syossan27/torisetsu).
+
+[![NPM](https://nodei.co/npm/torise2.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/torise2/)
 
 ## Install
 
